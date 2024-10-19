@@ -60,27 +60,16 @@ Inicialmente, realizamos uma avaliação do conhecimento individual de cada inte
 
 
 ## Sprint 2
->Colocar o vídeo da apresentação
 
-[![SPRINT 2](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 ## Sprint 3
->Colocar o vídeo da apresentação
-
-[![SPRINT 3](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Sprint 4
->Colocar o vídeo da apresentação
-
-[![SPRINT 4](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
 
-[![feira](https://img.youtube.com/vi/codigo_do_seu_video/0.jpg)](https://youtu.be/codigo_do_seu_video)
 
 
 ## Tecnologias Utilizadas
@@ -119,7 +108,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Sprint 1 - Concepção
- [x] Execução da atividade de conhecimentos prévios individualmente e em grupo;
+- [x] Execução da atividade de conhecimentos prévios individualmente e em grupo;
 - [x] Análise dos pontos fortes e fracos da equipe;
 - [x] Esboçar o Análise SWOT; 
 - [x] Executar um Canvas da empresa;
@@ -133,14 +122,14 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [ ] Sistema de ERP através do Excel
       
 ## Sprint 3 - Implementação
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
       
 ## Sprint 4 - Operacionalização
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+
 
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
+
 
 ## Hard Skill (saber tecnológico)
 <details>
