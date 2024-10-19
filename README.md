@@ -39,9 +39,6 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 ![Projeto Integrador gpi](https://github.com/user-attachments/assets/45eef117-aadc-48fa-b49b-fd9549a78ef1)
 
-<p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%201/imagem/se%C3%A7%C3%A3o.png" width="100%"/>
-</p>
 
 # Objetivo do Projeto
 Buscamos otimizar a distribuição e ampliar a cobertura de rede, especialmente em áreas rurais e remotas, onde o acesso à comunicação é limitado. Através de parcerias estratégicas e inovações tecnológicas, pretendemos promover a inclusão digital, facilitar o acesso à informação e impulsionar o desenvolvimento socioeconômico do país. Com este projeto, visamos não apenas conectar pessoas, mas também criar oportunidades e fortalecer a cidadania digital em todo o Brasil.
