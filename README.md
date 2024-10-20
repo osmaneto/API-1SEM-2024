@@ -88,7 +88,7 @@ https://fatecspgov.sharepoint.com/:p:/r/sites/PIGPII-Grupo2/Shared%20Documents/G
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)]([https://github.com/users/AndreLuizRibeiro/projects/4](https://github.com/osmaneto/API-1SEM-2024/projects?query=is%3Aopen))
+#### Cronograma das Sprints[(clique aqui)]([https://github.com/osmaneto/API-1SEM-2024/projects?query=is%3Aopen])
 
 
 ## Backlog do produto
