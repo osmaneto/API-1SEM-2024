@@ -23,10 +23,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off |03/09/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|01 | 24/09/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|02|  22/10/2024| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|03| 05/10/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|04|  19/10/2024|a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|Sprint 01 | 24/09/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 02|  22/10/2024| em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 03| 05/10/2024 | a fazer|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 04|  19/10/2024|a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
