@@ -78,8 +78,6 @@ Inicialmente, realizamos uma avaliação do conhecimento individual de cada inte
   - Word
   - Canva
   - Sebrae Canvas
-### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
   
 ### Mindset Digital
 > Liste todas as tecnologias referentes aos processos da API
