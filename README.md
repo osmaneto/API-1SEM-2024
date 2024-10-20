@@ -37,7 +37,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
-![Projeto Integrador gpi](https://github.com/user-attachments/assets/45eef117-aadc-48fa-b49b-fd9549a78ef1)
+![Projeto Integrador gpi](!(Captura de tela 2024-10-20 165240)
 
 
 # Objetivo do Projeto
@@ -52,7 +52,7 @@ Buscamos otimizar a distribuição e ampliar a cobertura de rede, especialmente 
 Inicialmente, realizamos uma avaliação do conhecimento individual de cada integrante, seguida por uma dinâmica em grupo, com o intuito de identificar os pontos fortes e fracos de nossa equipe. Em sequência, elaboramos o Canvas da empresa e uma análise SWOT, que nos ajudaram a mapear as oportunidades e desafios que iriamos enfrentar. Essas ferramentas foram essenciais para orientarmos as decisões estratégicas e definirmos o melhor caminho a ser seguido
 
 
-https://fatecspgov.sharepoint.com/:p:/r/sites/PIGPII-Grupo2/Shared%20Documents/General/1%C2%BA%20Sprint%20-%20GPI....pptx?d=wa9462cec8fe0405d8946cba62443349e&csf=1&web=1&e=Pj3TNJ
+
 
 
 
@@ -66,7 +66,7 @@ https://fatecspgov.sharepoint.com/:p:/r/sites/PIGPII-Grupo2/Shared%20Documents/G
 ## Sprint 4
 
 
-## Apresentação final (se necessario)
+## Apresentação final 
 
 
 
@@ -130,12 +130,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
 | Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
 | Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 | Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ |
  
  
 </details>
