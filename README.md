@@ -43,14 +43,15 @@ Sprint | Previsão | Status| Histórico|
 
 # Objetivo do Projeto
 Buscamos otimizar a distribuição e ampliar a cobertura de rede, especialmente em áreas rurais e remotas, onde o acesso à comunicação é limitado. Através de parcerias estratégicas e inovações tecnológicas, pretendemos promover a inclusão digital, facilitar o acesso à informação e impulsionar o desenvolvimento socioeconômico do país. Com este projeto, visamos não apenas conectar pessoas, mas também criar oportunidades e fortalecer a cidadania digital em todo o Brasil.
-- Realizar uma análise SWOT 
-- Realizar um modelo de negócios com CANVAS
-- Realizar uma pesquisa inicial do mercado
+
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
 Inicialmente, realizamos uma avaliação do conhecimento individual de cada integrante, seguida por uma dinâmica em grupo, com o intuito de identificar os pontos fortes e fracos de nossa equipe. Em sequência, elaboramos o Canvas da empresa e uma análise SWOT, que nos ajudaram a mapear as oportunidades e desafios que iriamos enfrentar. Essas ferramentas foram essenciais para orientarmos as decisões estratégicas e definirmos o melhor caminho a ser seguido
+- Realizar uma análise SWOT 
+- Realizar um modelo de negócios com CANVAS
+- Realizar uma pesquisa inicial do mercado
 
 
 
