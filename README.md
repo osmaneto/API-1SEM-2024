@@ -81,7 +81,7 @@ Inicialmente, realizamos uma avaliação do conhecimento individual de cada inte
   - Sebrae Canvas
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+
 
 # Cronograma das Sprints
 
@@ -92,11 +92,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
 
 
 ## Burndown
->Colocar aqui Burndown do projeto
+
 
 
 
