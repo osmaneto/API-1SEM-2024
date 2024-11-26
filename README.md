@@ -60,10 +60,10 @@ Inicialmente, realizamos uma avaliação do conhecimento individual de cada inte
 
 
 ## Sprint 2
-
+Foi definido o tamanho da Distribuidora e feito os controles administrativos usado em cada setor, como controle de estoque, fluxo de estoque, Rh. E também um sistema de gerenciamento onde com mapeamentos e indicadores mais especifícos 
 
 ## Sprint 3
-
+Com dados fornecidos pelo cliente, foi proposto que nós deveríamos definir o preço dos celulares comercializados na Distribuidora, fazer um levantamento dos dados, na qual foi dado para cada região do país, onde analisamos o custo de serviço, equipe, armazém e etc. Que foi colocado em pauta, a distribuição das vendas dos celulares em cada região para que houvesse ganho do mercado e alcance do market share definido pela equipe.
 
 ## Sprint 4
 
@@ -110,11 +110,11 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 
 ## Sprint 2 - Desenvolvimento do Projeto
-- [ ] Ajuste do Canvas 
-- [ ] Sistema de ERP através do Excel
+- [x] Ajuste do Canvas 
+- [x] Sistema de ERP através do Excel
       
 ## Sprint 3 - Implementação
-
+[x] Planilha de Dados Finais
       
 ## Sprint 4 - Operacionalização
 
