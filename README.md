@@ -25,8 +25,8 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off |03/09/2024 | concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 01 | 24/09/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 02|  22/10/2024| concluído|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 03| 05/10/2024 | em progresso|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 04|  19/10/2024|a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|Sprint 03| 05/10/2024 | concluído|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|Sprint 04|  19/10/2024|em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
@@ -113,8 +113,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Ajuste do Canvas 
 - [x] Sistema de ERP através do Excel
       
-## Sprint 3 - Implementação
-[x] Planilha de Dados Finais
+## Sprint 3 - Desenvolvimento do Projeto
+- [x] Execução da Planilha final
+
       
 ## Sprint 4 - Operacionalização
 
