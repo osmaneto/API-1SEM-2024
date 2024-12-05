@@ -85,6 +85,8 @@ Seguindo a base da Sprint 3, foi proposto que fosse simplificado as informaçõe
 
 
 # Cronograma das Sprints
+![Uploading image.png…]()
+
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
