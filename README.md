@@ -85,7 +85,6 @@ Seguindo a base da Sprint 3, foi proposto que fosse simplificado as informaçõe
 
 
 # Cronograma das Sprints
-![Uploading image.png…]()
 
 
 ## Cronograma
