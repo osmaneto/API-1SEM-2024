@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 |Sprint 01 | 24/09/2024| concluido| [Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 02|  22/10/2024| concluído|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |Sprint 03| 14/11/2024 | concluído|[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
-|Sprint 04|  03/12/2024|em progresso |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
+|Sprint 04|  04/12/2024|concluído |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) |
 |Feira de Soluções|12/12/2024 |a fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gp/i.docx) | 
 
 > Possíveis status: a fazer, em progresso e concluido
@@ -66,6 +66,7 @@ Foi definido o tamanho da Distribuidora e feito os controles administrativos usa
 Com dados fornecidos pelo cliente, foi proposto que nós deveríamos definir o preço dos celulares comercializados na Distribuidora, fazer um levantamento dos dados, na qual foi dado para cada região do país, onde analisamos o custo de serviço, equipe, armazém e etc. Que foi colocado em pauta, a distribuição das vendas dos celulares em cada região para que houvesse ganho do mercado e alcance do market share definido pela equipe.
 
 ## Sprint 4
+Seguindo a base da Sprint 3, foi proposto que fosse simplificado as informações contidas na planilha apresentada. Onde é possível verificar os custos, as receitas de cada região de uma maneira geral e de fácil identificação.
 
 
 ## Apresentação final 
