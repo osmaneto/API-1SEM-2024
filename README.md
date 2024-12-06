@@ -86,7 +86,7 @@ Seguindo a base da Sprint 3, foi proposto que fosse simplificado as informaçõe
 
 # Cronograma das Sprints
 
-(![image](https://github.com/user-attachments/assets/9d4cf67b-09b8-4d1c-8365-9ca75e459892))
+![image](https://github.com/user-attachments/assets/9d4cf67b-09b8-4d1c-8365-9ca75e459892)
 
 
 ## Cronograma
