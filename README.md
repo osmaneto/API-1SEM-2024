@@ -37,8 +37,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Equipe
-![Projeto Integrador gpi]![Captura de tela 2025-04-21 145952](https://github.com/user-attachments/assets/89d0f207-81f3-475d-9aca-14ef34a501e9)
-)
+
 
 
 
